@@ -46,7 +46,6 @@ This app was built collaboratively during the final phase of [HackYourFuture](ht
 This project helped me gain hands-on experience in building a full-stack app from scratch, working in a real Agile team using tools like Git, GitHub, Jira, and Prezi for final presentation.
 
 ---
-
 > This project was built as part of my learning journey at HackYourFuture 🚀
 
 
