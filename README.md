@@ -64,7 +64,7 @@ This project helped me gain hands-on experience in building a full-stack app fro
 
 ## 🌱 I’m currently:
 - Looking for a **junior developer position** or **internship**
-- Improving my skills in **TypeScript** and **testing frameworks**
+- Improving my skills in **TypeScript** , **testing frameworks** and **Next.js**
 - Open to collaboration and mentorship
 
 ## 📫 Let's connect!
