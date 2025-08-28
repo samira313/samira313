@@ -24,42 +24,8 @@ I'm a passionate **junior web developer** with a strong foundation in full-stack
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)]()
-## 💻 Featured Project
-# 🤝 ShareWithUs
-
-A full-stack web application that allows users to **share, borrow, and lend items** in their local community.
-
-## 🌟 What is ShareWithUs?
-ShareWithUs is a platform that promotes sustainable living and community support by making it easy for people to lend and borrow items like tools, books, appliances, and more.
-
-## 🚀 Features
-- 🔍 Search & filter items
-- 📦 Borrow and reserve items
-- 👤 User authentication & profile pages
-- 📝 Review system
-- 📷 Image upload with Cloudinary
 
 
-## 🔧 Tech Stack
-**Frontend:**
-- React.js  
-- React Router  
-- CSS Modules  
-
-**Backend:**
-- Node.js / Express  
-- MongoDB (Mongoose)  
-- JWT Authentication  
-- Cloudinary (Image Upload)
-
-## 🤝 Team Project
-This app was built collaboratively during the final phase of [HackYourFuture](https://www.hackyourfuture.net/) coding bootcamp.
-
-## 🏁 Conclusion
-This project helped me gain hands-on experience in building a full-stack app from scratch, working in a real Agile team using tools like Git, GitHub, Jira, and Prezi for final presentation.
-
----
-> This project was built as part of my learning journey at HackYourFuture 🚀
 
 
 ## 🌱 I’m currently:
