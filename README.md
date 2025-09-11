@@ -34,6 +34,6 @@ I'm a passionate **junior web developer** with a strong foundation in full-stack
 - Open to collaboration and mentorship
 
 ## 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/samira-ahmadi-975711349/)
+- [LinkedIn](https://www.linkedin.com/in/samira-a-975711349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📩 ahmadi.samira6761@gmail.com
 - 📍 Based in the Netherlands
