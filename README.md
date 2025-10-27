@@ -28,7 +28,6 @@ I'm a passionate **junior web developer** with a strong foundation in full-stack
 
 
 
-
 ## 🌱 I’m currently:
 - Looking for a **junior developer position** or **internship**
 - Improving my skills in **TypeScript** , **testing frameworks** and **Next.js**
