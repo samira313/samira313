@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samira!
 
-### Junior Full Stack Developer | Backend-Leaning | Django • React • GraphQL
+### Full Stack Developer | Backend-Leaning | Django • React • GraphQL
 
 I'm a Junior Full Stack Developer based in the Netherlands, working on production-scale web platforms and data-driven applications.
 
