@@ -1,6 +1,12 @@
-# 👋 Hi there, I'm Samira!
+# 👋 Hi, I'm Samira!
 
-I'm a passionate **junior web developer** with a strong foundation in full-stack development. I recently graduated from [HackYourFuture](https://www.hackyourfuture.net/) a 7-month intensive coding program focused on real-world collaboration, clean code, and team projects.
+I'm a Junior Full Stack Developer based in the Netherlands, working on production-scale web platforms and data-driven applications.
+
+I work mainly with Django, PostgreSQL, GraphQL, React, and TypeScript, building and maintaining both backend APIs and frontend features. I enjoy debugging complex issues, improving data flows, and understanding systems end-to-end from database and cache layers to frontend rendering.
+
+Recently, I worked on a major third-party API upgrade involving GraphQL schema changes, Redis caching issues, CI/CD failures, and cloud-hosted deployments.
+
+Currently growing toward stronger backend, cloud, and data-intensive engineering.
 
 ## ✅ Tech Stack
 
