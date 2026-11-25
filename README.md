@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Backend-Leaning | Django • React • GraphQL
 
-I'm a Junior Full Stack Developer based in the Netherlands, working on production-scale web platforms and data-driven applications.
+I'm a Full Stack Developer based in the Netherlands, working on production-scale web platforms and data-driven applications.
 
 I work mainly with **Django, PostgreSQL, GraphQL, React, and TypeScript**, building and maintaining both backend APIs and frontend features. I enjoy debugging complex issues, improving data flows, and understanding systems end-to-end — from database and cache layers to frontend rendering.
 
